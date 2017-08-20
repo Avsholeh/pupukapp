@@ -1,0 +1,362 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="50dp"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <LinearLayout xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- target -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_target"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_target"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider1"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_target" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider1"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/target"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:inputType="number"
+                            android:padding="@dimen/card_view_item_padding"
+                            android:text="@string/default_target" />
+
+                        <Spinner
+                            android:id="@+id/spin_unit_target"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:padding="@dimen/card_view_item_padding" />
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <!-- luas tanah -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_luas_tanah"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_luas_tanah"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider2"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_luas_tanah" />
+
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider2"
+                        android:orientation="horizontal">
+
+                        <EditText
+                            android:id="@+id/luastanah"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:inputType="number"
+                            android:padding="@dimen/card_view_item_padding"
+                            android:text="@string/default_luastanah" />
+
+                        <Spinner
+                            android:id="@+id/spin_unit_luas_tanah"
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:layout_weight="1"
+                            android:padding="@dimen/card_view_item_padding" />
+                    </LinearLayout>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <!-- kabupaten -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_kabupaten"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_kabupaten"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider3"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_kabupaten" />
+
+
+                    <Spinner
+                        android:id="@+id/kabupaten"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider3"
+                        android:padding="@dimen/card_view_item_padding" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <!-- kecamatan -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_kecamatan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_kecamatan"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider4"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_kecamatan" />
+
+
+                    <Spinner
+                        android:id="@+id/kecamatan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider4"
+                        android:padding="@dimen/card_view_item_padding" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <!-- pop size -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_popsize"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_population_size"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider5"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_popsize" />
+
+                    <EditText
+                        android:id="@+id/popsize"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider5"
+                        android:inputType="number"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/default_popsize" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <!-- generasi -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_gen"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_generation"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider6"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_gen" />
+
+                    <EditText
+                        android:id="@+id/generasi"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider6"
+                        android:inputType="number"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/default_generasi" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <!-- crossover rate -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_cr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_crossover_rate"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider7"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_cr" />
+
+                    <EditText
+                        android:id="@+id/cr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider7"
+                        android:inputType="number"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/default_crossover_rate" />
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+
+            <!-- mutation rate -->
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/tv_mr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/proses_mutation_rate"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider8"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/tv_mr" />
+
+                    <EditText
+                        android:id="@+id/mr"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider8"
+                        android:inputType="number"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/default_mutation_rate" />
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+        </LinearLayout>
+    </ScrollView>
+
+    <Button
+        android:id="@+id/btn_proses"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/scrollView"
+        android:background="@color/button_primary"
+        android:text="@string/btn_proses"
+        android:textColor="@android:color/white" />
+</RelativeLayout>

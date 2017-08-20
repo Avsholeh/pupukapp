@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/image_pupuk.png",
+        "source": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/res/mipmap-mdpi/image_pupuk.png"
+    },
+    {
+        "merged": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    }
+]

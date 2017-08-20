@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_cf4de62ac84fcb6cfd6c123de580caf12db65f0f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_48fa12fb54530dbb83e61e48d5564674cfcbf35f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_f4838e0af297f01531bfd686d869a19ee83ce46c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_c20497a8712dcc9f9e284f58df1d8dffe86c0639.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_31e12419f7ee489fa7c7a769924838ce746a5051.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations-java5/15.0/7011b4551a8451906759b05814c58b9eb829ea9b/annotations-java5-15.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7011b4551a8451906759b05814c58b9eb829ea9b">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/annotations-java5-15.0_a9fb7c2b7cea3a73ea218f2823ac53f7268fe289.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_9f3c0e7941e38bb1367118a4ba97aa49171a7bfc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_061058f2415a5ff818407251df8a4a9d4d801dd6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_97613ad4da7d37a3fc6115c9c027162de2ad1525.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_865870acdf073e0d3338d2ca39eab9a554e9964e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_036629fcbd7dd5c2abf1685b5131f4fcf0545f3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_f1a7d6b7565949c2f93411ba12a60eae2137ba30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_6f25af7ff7975d5afec0774e6fe7623ef12a5a79.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_17e272e922bf516190f26b56145e0e27efb15504.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_3689ae7ab3d8f76958258c4cd27cc2ac250a14b9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-24.2.1_4d7c107a141f2d00169042cdfb4661b7c9a11578.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-24.2.1_d028beee4852b1a5e38ed32f3dcc5986ac8bf4bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_734470f9b29e1c45320bbf53282b696b663ae264.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Optimasi Komposisi Pupuk Tanaman Jagung Menggunakan Algoritma Genetika Berbasis Android</string>
+    <string name="layout_pupuk">Data Pupuk</string>
+    <string name="layout_acuan">Data Rekomendasi</string>
+    <string name="layout_proses_optimasi">Proses Optimasi</string>
+    <string name="layout_perhitungan">Perhitungan</string>
+    <string name="layout_tambah">Tambah Pupuk</string>
+    <string name="layout_edit">Edit Pupuk</string>
+    <string name="layout_hapus">Hapus Pupuk</string>
+    <string name="layout_hasil_proses">Hasil Proses Optimasi</string>
+
+    <!-- Button Strings -->
+    <string name="btn_pupuk">Info Pupuk</string>
+    <string name="btn_acuan">Data Rekomendasi</string>
+    <string name="btn_input">Proses Optimasi</string>
+    <string name="btn_perhitungan">Perhitungan</string>
+    <string name="btn_proses">Proses</string>
+    <string name="btn_kembali">Kembali</string>
+    <string name="btn_hapus">Hapus</string>
+    <string name="btn_simpan">Simpan</string>
+    <string name="btn_tambah">Tambah</string>
+    <string name="btn_edit">Edit</string>
+
+    <!-- Default Values -->
+    <string name="default_target">10</string>
+    <string name="default_luastanah">1</string>
+    <string name="default_popsize">5</string>
+    <string name="default_crossover_rate">0.4</string>
+    <string name="default_mutation_rate">0.6</string>
+    <string name="default_generasi">100</string>
+
+    <!-- Text in activity_proses xml -->
+    <string name="proses_target">Target</string>
+    <string name="proses_luas_tanah">Luas Tanah</string>
+    <string name="proses_kabupaten">Kabupaten</string>
+    <string name="proses_kecamatan">Kecamatan</string>
+    <string name="proses_population_size">Pop size</string>
+    <string name="proses_generation">Generasi</string>
+    <string name="proses_crossover_rate">Crossover Rate</string>
+    <string name="proses_mutation_rate">Mutation Rate</string>
+
+    <!-- Text in activity_pupuk xml -->
+    <string name="pupuk_nama">Nama Pupuk</string>
+    <string name="pupuk_n">Kadar N</string>
+    <string name="pupuk_p">Kadar P</string>
+    <string name="pupuk_k">Kadar K</string>
+    <string name="pupuk_harga">Harga</string>
+
+    <!-- Text in activity_perhitungan xml -->
+    <string name="perhitungan_pemupukan">Rekomendasi Pemupukan N, P, K</string>
+    <string name="perhitungan_kandungan_1">Perhitungan Kandungan</string>
+    <string name="perhitungan_kandungan_2">Rumus: Nutrisi = Kandungan (%) x Jumlah Pupuk yg dibutuhkan</string>
+    <string name="perhitungan_kromosom">Kromosom Terpilih</string>
+    <string name="perhitungan_individu">Mencari Kandungan 5 Individu Pertama</string>
+    <string name="perhitungan_penalty_1">Perhitungan Penalty</string>
+    <string name="perhitungan_penalty_2">Rumus: Kebutuhan N + Kebutuhan P + Kebutuhan K</string>
+    <string name="perhitungan_fitness_1">Perhitungan Fitness</string>
+    <string name="perhitungan_fitness_2">Rumus: 1000 / (Total Harga / 1000) + (1000 * penalty)</string>
+
+    <!-- Text in activity_hasil_proses xml -->
+    <string name="hp_penalty">Penalty</string>
+    <string name="hp_fitness">Fitness</string>
+    <string name="hp_total_harga">Total Harga</string>
+
+</resources>

@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ScrollView
+        android:id="@+id/scrollView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:fillViewport="true"
+        android:paddingBottom="@dimen/activity_vertical_margin"
+        android:paddingLeft="@dimen/activity_horizontal_margin"
+        android:paddingRight="@dimen/activity_horizontal_margin"
+        android:paddingTop="@dimen/activity_vertical_margin">
+
+        <LinearLayout xmlns:card_view="http://schemas.android.com/apk/res-auto"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_pemupukan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_pemupukan"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider1"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/title_pemupukan" />
+
+                    <TextView
+                        android:id="@+id/pemupukan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider1"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_kandungan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_kandungan_1"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/subtitle_kandungan"
+                        android:layout_below="@+id/title_kandungan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_kandungan_2"
+                        android:textStyle="italic" />
+
+                    <View
+                        android:id="@+id/divider2"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/subtitle_kandungan" />
+
+                    <TextView
+                        android:id="@+id/kandungan"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider2"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_kromosom"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_kromosom"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider4"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/title_kromosom" />
+
+                    <TextView
+                        android:id="@+id/kromosom"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider4"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_individu"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_individu"
+                        android:textStyle="bold" />
+
+                    <View
+                        android:id="@+id/divider3"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/title_individu" />
+
+                    <TextView
+                        android:id="@+id/individu"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider3"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_penalty"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_penalty_1"
+                        android:textStyle="bold" />
+
+
+                    <TextView
+                        android:id="@+id/subtitle_penalty"
+                        android:layout_below="@+id/title_penalty"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_penalty_2"
+                        android:textStyle="italic" />
+
+                    <View
+                        android:id="@+id/divider5"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/subtitle_penalty" />
+
+                    <TextView
+                        android:id="@+id/penalty"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider5"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+            <android.support.v7.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/card_view_margin_bottom">
+
+                <RelativeLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content">
+
+                    <TextView
+                        android:id="@+id/title_fitness"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_fitness_1"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/subtitle_fitness"
+                        android:layout_below="@+id/title_fitness"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:padding="@dimen/card_view_item_padding"
+                        android:text="@string/perhitungan_fitness_2"
+                        android:textStyle="italic" />
+
+                    <View
+                        android:id="@+id/divider6"
+                        style="@style/Divider"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/subtitle_fitness" />
+
+                    <TextView
+                        android:id="@+id/fitness"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_below="@+id/divider6"
+                        android:textSize="@dimen/text_size"
+                        android:padding="@dimen/card_view_item_padding"/>
+
+                </RelativeLayout>
+
+            </android.support.v7.widget.CardView>
+
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>
