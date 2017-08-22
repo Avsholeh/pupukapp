@@ -16,14 +16,30 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".PupukActivity" android:label="@string/layout_pupuk"></activity>
-        <activity android:name=".RekomendasiActivity" android:label="@string/layout_acuan"></activity>
-        <activity android:name=".ProsesActivity" android:label="@string/layout_proses_optimasi"></activity>
-        <activity android:name=".PerhitunganActivity" android:label="@string/layout_perhitungan"></activity>
-        <activity android:name=".TambahPupukActivity" android:label="@string/layout_tambah"></activity>
-        <activity android:name=".EditPupukActivity" android:label="@string/layout_edit"></activity>
-        <activity android:name=".HapusPupukActivity" android:label="@string/layout_hapus"></activity>
-        <activity android:name=".HasilProsesActivity" android:label="@string/layout_hasil_proses"></activity>
+        <activity
+                android:name=".PupukActivity"
+                android:label="@string/layout_pupuk" />
+        <activity
+                android:name=".RekomendasiActivity"
+                android:label="@string/layout_acuan" />
+        <activity
+                android:name=".ProsesActivity"
+                android:label="@string/layout_proses_optimasi" />
+        <activity
+                android:name=".PerhitunganActivity"
+                android:label="@string/layout_perhitungan" />
+        <activity
+                android:name=".TambahPupukActivity"
+                android:label="@string/layout_tambah" />
+        <activity
+                android:name=".EditPupukActivity"
+                android:label="@string/layout_edit" />
+        <activity
+                android:name=".HapusPupukActivity"
+                android:label="@string/layout_hapus" />
+        <activity
+                android:name=".HasilProsesActivity"
+                android:label="@string/layout_hasil_proses" />
 
     </application>
 
