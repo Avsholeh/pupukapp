@@ -1,1 +1,2 @@
-include ':app'
+include ':app', ':genetics-algorithm'
+project(':genetics-algorithm').projectDir = new File(settingsDir, '../../../../IntellijIDEA/repos/Syafiqq/discrete-genetics-algoritm/case')
