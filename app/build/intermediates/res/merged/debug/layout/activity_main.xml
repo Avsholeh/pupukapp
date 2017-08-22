@@ -54,4 +54,8 @@
         android:layout_height="wrap_content"
         android:scaleType="fitCenter"
         android:src="@drawable/image_background"/>
+
+
+
+
 </LinearLayout>
