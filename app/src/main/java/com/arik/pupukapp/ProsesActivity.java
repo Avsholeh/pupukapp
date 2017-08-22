@@ -10,17 +10,17 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.Spinner;
 
-import com.arik.pupukapp.dao.CornPlantation;
-import com.arik.pupukapp.dao.Fertilizer;
-import com.arik.pupukapp.dao.PlantationScale;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.dao.CornPlantation;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.dao.Fertilizer;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.dao.PlantationScale;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.method.GeneticsAlgorithmImpl;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.method.IndividualImpl;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.method.SettingImpl;
 import com.arik.pupukapp.database.DataAcuan;
 import com.arik.pupukapp.database.DataPupuk;
 import com.arik.pupukapp.database.DatabaseHelper;
-import com.arik.pupukapp.genetic.unit.compound.AreaDensityUnit;
-import com.arik.pupukapp.method.GeneticsAlgorithmImpl;
-import com.arik.pupukapp.method.IndividualImpl;
-import com.arik.pupukapp.method.SettingImpl;
 
+import com.github.syafiqq.unit.conversion.core.unit.compound.AreaDensityUnit;
 import java.util.ArrayList;
 import java.util.List;
 

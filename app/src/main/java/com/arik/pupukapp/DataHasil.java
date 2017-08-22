@@ -1,9 +1,8 @@
 package com.arik.pupukapp;
 
-import com.arik.pupukapp.dao.Fertilizer;
-import com.arik.pupukapp.method.GeneticsAlgorithmImpl;
-import com.arik.pupukapp.method.utils.Int2DoubleMap;
-
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.dao.Fertilizer;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.method.GeneticsAlgorithmImpl;
+import app.freelancer.syafiqq.evolutionary.discrete.genetics.algorithm.cases.a.model.method.utils.Int2DoubleMap;
 import java.text.DecimalFormat;
 import java.util.List;
 
