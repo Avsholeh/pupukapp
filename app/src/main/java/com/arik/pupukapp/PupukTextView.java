@@ -4,11 +4,11 @@ import android.annotation.SuppressLint;
 import android.content.Context;
 import android.util.TypedValue;
 import android.view.Gravity;
-import android.widget.TextView;
 
 
 @SuppressLint("ViewConstructor")
-public class PupukTextView extends TextView {
+public class PupukTextView extends android.support.v7.widget.AppCompatTextView
+{
     public PupukTextView(Context context, boolean title) {
         super(context);
         setPadding(5,5,5,5);
