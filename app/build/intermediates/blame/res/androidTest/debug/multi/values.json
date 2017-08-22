@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
+        "outputFile": "/home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values/values.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 96
                 },
                 "from": {
-                    "file": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support.test/rules/0.5/res/values/values.xml",
+                    "file": "/home/syafiq/.android/build-cache/308ca2a7f57740e3a6cc6de4228855378cb259af/output/res/values/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

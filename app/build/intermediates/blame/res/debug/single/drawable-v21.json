@@ -1,14 +1,18 @@
 [
     {
-        "merged": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
-        "source": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_edit_text_material.xml"
+        "merged": "/home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
     },
     {
-        "merged": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
-        "source": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_btn_colored_material.xml"
+        "merged": "/home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/res/drawable-v21/abc_edit_text_material.xml"
     },
     {
-        "merged": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
-        "source": "/home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/drawable-v21/abc_action_bar_item_background_material.xml"
+        "merged": "/home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/res/drawable-v21/notification_action_background.xml"
     }
 ]

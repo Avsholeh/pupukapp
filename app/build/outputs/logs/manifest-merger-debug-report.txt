@@ -1,120 +1,136 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:2:1-30:12
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:2:1-30:12
 	package
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:3:5-32
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
 application
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:5:5-28:19
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:cardview-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/AndroidManifest.xml:22:5-20
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:5:5-28:19
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/syafiq/.android/build-cache/9b10f291d364edb4f44f3fa016bfac0b8d9017da/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/cb41ef54c77b9c9b2b97f0ad72ddf6609ca05e0f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/syafiq/.android/build-cache/16466b807a073efbebcdcb03d4bfcb2002203ee5/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/syafiq/.android/build-cache/13ff989cc1f3c9f0d7412c201d2e071bfca6e2c9/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/0455233fe4d8798cbcb5c3afe260c822aa5630ec/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/b3615334b27ffc70e067db48b49166e5ed738241/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/5da391cc7ae3ea21bbac22df102b7e9eb43602d0/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/syafiq/.android/build-cache/4bf0174be800ea3ab3f45275454718592bf9c06b/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/a6c8959c78f9d2c53eac58cf539393361c2bad19/output/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:8:9-41
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:8:9-41
 	android:supportsRtl
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:9:9-35
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:9:9-35
 	android:allowBackup
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:6:9-35
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:6:9-35
 	android:icon
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:7:9-43
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:7:9-43
 	android:theme
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:10:9-40
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:10:9-40
 activity#com.arik.pupukapp.MainActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:11:9-17:20
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:11:9-17:20
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:11:19-47
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:11:19-47
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:12:13-16:29
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:12:13-16:29
 action#android.intent.action.MAIN
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:13:17-69
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:13:17-69
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:13:25-66
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:13:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:15:17-77
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:15:17-77
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:15:27-74
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:15:27-74
 activity#com.arik.pupukapp.PupukActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:19:9-97
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:19:9-97
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:19:49-85
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:19:49-85
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:19:19-48
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:19:19-48
 activity#com.arik.pupukapp.RekomendasiActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:20:9-103
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:20:9-103
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:20:55-91
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:20:55-91
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:20:19-54
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:20:19-54
 activity#com.arik.pupukapp.ProsesActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:21:9-108
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:21:9-108
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:21:50-96
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:21:50-96
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:21:19-49
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:21:19-49
 activity#com.arik.pupukapp.PerhitunganActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:22:9-109
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:22:9-109
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:22:55-97
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:22:55-97
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:22:19-54
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:22:19-54
 activity#com.arik.pupukapp.TambahPupukActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:23:9-104
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:23:9-104
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:23:55-92
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:23:55-92
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:23:19-54
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:23:19-54
 activity#com.arik.pupukapp.EditPupukActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:24:9-100
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:24:9-100
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:24:53-88
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:24:53-88
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:24:19-52
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:24:19-52
 activity#com.arik.pupukapp.HapusPupukActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:25:9-102
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:25:9-102
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:25:54-90
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:25:54-90
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:25:19-53
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:25:19-53
 activity#com.arik.pupukapp.HasilProsesActivity
-ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:26:9-110
+ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:26:9-110
 	android:label
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:26:55-98
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:26:55-98
 	android:name
-		ADDED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml:26:19-54
+		ADDED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml:26:19-54
 uses-sdk
-INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:appcompat-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-compat:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-media-compat:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-utils:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-fragment:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-vector-drawable:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cardview-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/AndroidManifest.xml:20:5-43
+INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/syafiq/.android/build-cache/9b10f291d364edb4f44f3fa016bfac0b8d9017da/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/cb41ef54c77b9c9b2b97f0ad72ddf6609ca05e0f/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/syafiq/.android/build-cache/16466b807a073efbebcdcb03d4bfcb2002203ee5/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/syafiq/.android/build-cache/13ff989cc1f3c9f0d7412c201d2e071bfca6e2c9/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/0455233fe4d8798cbcb5c3afe260c822aa5630ec/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/b3615334b27ffc70e067db48b49166e5ed738241/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/5da391cc7ae3ea21bbac22df102b7e9eb43602d0/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/fe4b69b7a6fcc34a25d061ba10445a09594ce33a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/syafiq/.android/build-cache/4bf0174be800ea3ab3f45275454718592bf9c06b/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/a6c8959c78f9d2c53eac58cf539393361c2bad19/output/AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] /home/avsholeh/AndroidStudioProjects/PupukApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
-		INJECTED from /home/avsholeh/AndroidStudioProjects/PupukApp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+		INJECTED from /home/syafiq/Documents/JetBrains/AndroidStudio/repos/Syafiqq/pupukapp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /home/syafiq/.android/build-cache/9b10f291d364edb4f44f3fa016bfac0b8d9017da/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/cb41ef54c77b9c9b2b97f0ad72ddf6609ca05e0f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /home/syafiq/.android/build-cache/16466b807a073efbebcdcb03d4bfcb2002203ee5/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /home/syafiq/.android/build-cache/13ff989cc1f3c9f0d7412c201d2e071bfca6e2c9/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/0455233fe4d8798cbcb5c3afe260c822aa5630ec/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /home/syafiq/.android/build-cache/b3615334b27ffc70e067db48b49166e5ed738241/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:cardview-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/5da391cc7ae3ea21bbac22df102b7e9eb43602d0/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:recyclerview-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/fe4b69b7a6fcc34a25d061ba10445a09594ce33a/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /home/syafiq/.android/build-cache/4bf0174be800ea3ab3f45275454718592bf9c06b/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /home/syafiq/.android/build-cache/a6c8959c78f9d2c53eac58cf539393361c2bad19/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /home/syafiq/.android/build-cache/7f13236bc9323814e4cf3e38ff54d23f4deee7b1/output/AndroidManifest.xml:26:9-47
